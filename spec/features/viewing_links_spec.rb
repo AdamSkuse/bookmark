@@ -1,3 +1,5 @@
+require 'spec_helper'
+
 feature 'Viewing Links' do
 
   scenario 'should show a link when visiting homepage' do

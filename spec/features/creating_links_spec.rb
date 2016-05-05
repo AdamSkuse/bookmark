@@ -1,3 +1,5 @@
+require 'spec_helper'
+
 feature 'Submitting new link' do
 
   scenario 'adds new link to links page when submitted' do
